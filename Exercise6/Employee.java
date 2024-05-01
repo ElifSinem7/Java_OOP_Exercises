@@ -43,7 +43,7 @@ public class Employee {
 		emp2.raiseSalary(27);
 		System.out.println("\nAfter the raising first employee's salary %16 and second employee's salary %27: ");
 		System.out.println("***** New Salaries *****");
-		System.out.println("First employee's new salary: " + emp1.getSalary() + "\nSecond employee'S new salary: " + emp2.getSalary());
+		System.out.println("First employee's new salary: " + emp1.getSalary() + "\nSecond employee's new salary: " + emp2.getSalary());
 
 	}
 
